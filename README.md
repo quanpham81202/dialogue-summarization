@@ -5,7 +5,7 @@ Samsum is the original dataset in English;
 
 Samsum_vi is the dataset which translate to vietnamese but it already have 2 files about test and val. Because of the huge amount of the train sample so it will take more time to translate!
 
-About 2 models for the testing part i suggest you should test on the huggigface's interface api here the link:
+About 2 models for the testing part i suggest you should test on the huggigface's inference API here the link:
 
 PEGASUS: https://huggingface.co/chamdentimem/pegasus-samsum
 
